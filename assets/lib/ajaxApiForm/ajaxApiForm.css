@@ -1,0 +1,15 @@
+.ajax-api-form-messages{
+    text-align: center;
+    color: red;
+    margin-bottom: 10px;
+}
+.ajax-api-form-success-message{
+    text-align: center;
+    color: green;
+    margin-bottom: 10px;
+}
+
+.ajax-api-form .required,
+.ajax-api-form .error{
+    border-color: red !important;
+}
