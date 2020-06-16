@@ -13,3 +13,8 @@
 .ajax-api-form .error{
     border-color: red !important;
 }
+
+.ajax-api-form-field-error{
+    color: red;
+    margin-bottom: 5px;
+}
